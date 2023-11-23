@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue3-plotly": "^0.0.7"
+  }
+}
